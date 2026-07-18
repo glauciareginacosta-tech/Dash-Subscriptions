@@ -21,6 +21,4 @@ The information represents **Xbox subscription sales** during the year **2024**,
 
 ## Notes
 - No need to install additional libraries or software;
-- All work was done within Excel.
-
-This project is a practical exercise in **[data visualization](ca://s?q=Data_visualization)** and **[sales analysis(ca://s?q=Sales_analysis)**, showing how simple data can be transformed into valuable insights.
+- All work was done within Excel.a_visualization)** and **[sales analysis(ca://s?q=Sales_analysis)**, showing how simple data can be transformed into valuable insights.
